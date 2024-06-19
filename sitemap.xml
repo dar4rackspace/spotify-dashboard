@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dar4rackspace.github.io/spotify-dashboard/tutorial.html</loc>
-    <lastmod>2024-06-18T13:20:07.203Z</lastmod>
+    <loc>https://dar4rackspace.github.io/spotify-dashboard/dashboard.html</loc>
+    <lastmod>2024-06-19T13:19:39.801Z</lastmod>
   </url>
   <url>
     <loc>https://dar4rackspace.github.io/spotify-dashboard/index.html</loc>
-    <lastmod>2024-06-18T13:20:07.203Z</lastmod>
+    <lastmod>2024-06-19T13:19:39.821Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dar4rackspace.github.io/spotify-dashboard/tutorial.html</loc>
+    <lastmod>2024-06-19T13:19:39.821Z</lastmod>
   </url>
   <url>
     <loc>https://dar4rackspace.github.io/spotify-dashboard/about.html</loc>
-    <lastmod>2024-06-18T13:20:07.187Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dar4rackspace.github.io/spotify-dashboard/dashboard.html</loc>
-    <lastmod>2024-06-18T13:20:07.187Z</lastmod>
+    <lastmod>2024-06-19T13:19:39.801Z</lastmod>
   </url>
 </urlset>
